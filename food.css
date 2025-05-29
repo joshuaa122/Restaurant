@@ -1,0 +1,21 @@
+body
+{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.mar
+{
+    margin-top: 15%;
+    margin-left: 5%;
+}
+.lef
+{
+    margin-left: 15%;
+    
+}
+@media(max-width:800px){
+    
+}
+
